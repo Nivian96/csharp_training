@@ -1,0 +1,21 @@
+# Rider / JetBrains: локальные IDE-данные
+.idea/
+*.sln.iml
+
+# Пользовательские настройки Visual Studio/Rider
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# Результаты сборки .NET
+[Bb]in/
+[Oo]bj/
+
+# Тесты, покрытие, логи
+[Tt]est[Rr]esult*/
+coverage/
+*.coverage
+*.coveragexml
+*.log
